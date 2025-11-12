@@ -1,0 +1,20 @@
+
+---
+
+## 🔧 Technical Specs
+- **Format:** Markdown (.md) prompts and guides, XLSX templates for data mapping, PDF/MD outputs for case examples.  
+- **Dependencies:** None (compatible with any LLM or local editor).  
+- **Intended Use:** Supports narrative design, data storytelling, and strategic insight communication.  
+- **Optional Tools:**  
+  - Figma or Illustrator for visual layout  
+  - Excel or Python for data aggregation  
+  - Markdown/HTML for documentation or web publication  
+
+---
+
+## 🧱 Philosophy
+> “An infographic is an argument in visual form.”  
+Every dataset contains an implicit logic — this toolkit turns that logic into a visible, defensible, and actionable narrative.
+
+---
+
