@@ -1,0 +1,65 @@
+# 🎨 Infographic Outline — Data-to-Insight Narrative
+
+## Overview
+This layout template helps structure an infographic (or one-pager) that builds an **argument visually** — moving from **data → insight → outcome → action**.  
+Each panel or section corresponds to a phase in the Data Journalism Arc and Toulmin-style reasoning.
+
+---
+
+## 🧩 Layout Structure
+
+| **Section** | **Purpose** | **Content Suggestions** | **Visual Treatment** |
+|--------------|-------------|--------------------------|----------------------|
+| **1. Header / Claim** | State the main insight or argument | One-sentence thesis (e.g., “Building resilience reduces healthcare costs.”) | Bold typography, short subhead, supporting image or icon |
+| **2. Context / Situation** | Establish relevance or tension | “Healthcare costs continue to rise despite wellness programs…” | Background color block, timeline, or brief stat callouts |
+| **3. Evidence / Data** | Show the raw data points | Key charts, averages, or participation metrics | Use 1–2 chart types (line, bar, or stacked area) with clear labeling |
+| **4. Patterns / Information** | Summarize what the data shows | “Participation spikes after 5 sessions, stabilizes near resilience score 4.” | Highlighted trend line, annotation, or mini-sparkline grid |
+| **5. Insight / Warrant** | Explain why the data matters | “Higher engagement predicts lower healthcare utilization.” | Text block + small diagram linking cause → effect |
+| **6. Outcome / Evidence of Impact** | Show change or results | ROI metrics, turnover reduction, well-being improvements | Paired before/after chart, KPI tiles, or icon array |
+| **7. Action / Recommendation** | Clarify next steps | “Continue funding reflection programs to maintain savings trajectory.” | CTA panel, arrows, or callout box |
+| **8. Footer / Attribution** | Cite sources or methodology | “Based on Lore user data (n=20), analyzed Oct–Nov 2025.” | Small text, subtle background, logos if needed |
+
+---
+
+## 🧭 Visual Flow
+Recommended reading order:
+> **Claim → Context → Data → Patterns → Insight → Outcome → Action**
+
+Design it like an argument: the top introduces the claim, the middle defends it with evidence, and the end closes the case.
+
+---
+
+## 🎛 Design Specs
+- **Aspect Ratio:** 4:5 for web or print-friendly vertical scroll  
+- **Font Hierarchy:**  
+  - H1 → Main Claim  
+  - H2 → Section Headings  
+  - Body → Explanations, captions  
+- **Color Coding (optional):**
+  - Data = Blue  
+  - Insight = Orange  
+  - Outcome = Green  
+  - Action = Gold  
+
+- **Charts & Visuals:**  
+  Keep 1–2 chart types consistent throughout; every chart should support one rhetorical move (proof, comparison, or correlation).
+
+---
+
+## 🧠 Optional Add-ons
+- **Evidence Ladder Sidebar:** Mini vertical timeline showing “Data → Insight → Impact”  
+- **Quote Block:** Testimonial or executive voice confirming impact (“Lore reduced our medical spend by 12% in six months.”)  
+- **Confidence Indicator:** “Data directional; based on aggregate trends.”  
+- **Feedback Loop Diagram:** Show how insights feed back into learning or next cycles.  
+
+---
+
+## 💡 Designer Notes
+- Avoid “chart clutter.” Every visual should defend the central claim.  
+- Use **consistent axes** for comparison over time (e.g., always session 1–20 on X, 1–5 scale on Y).  
+- Support each chart with one sentence of interpretation — “what this means,” not just “what this shows.”  
+- Maintain rhetorical symmetry: each visual = one supporting premise.  
+
+---
+
+## 📄 File Naming Template
